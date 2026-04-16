@@ -10,7 +10,7 @@ const TaskItem = ({ item, toggleTask, deleteTask }) => {
           </span>
         </td>
         <td style={{ width: "15%" }}>
-          <span>{item.completed ? "Compeleted" : "In-Progress"}</span>
+          <span>{item.completed ? "Completed" : "In-Progress"}</span>
         </td>
         <td style={{ width: "15%" }}>
           <span>{item.completedDate || "-"}</span>
