@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/.github.io/task-tracker/static/css/main.cfd3afd4.css",
-    "main.js": "/.github.io/task-tracker/static/js/main.8204b84a.js",
-    "index.html": "/.github.io/task-tracker/index.html",
-    "main.cfd3afd4.css.map": "/.github.io/task-tracker/static/css/main.cfd3afd4.css.map",
-    "main.8204b84a.js.map": "/.github.io/task-tracker/static/js/main.8204b84a.js.map"
+    "main.css": "/Task-Tracker/static/css/main.cfd3afd4.css",
+    "main.js": "/Task-Tracker/static/js/main.8204b84a.js",
+    "index.html": "/Task-Tracker/index.html",
+    "main.cfd3afd4.css.map": "/Task-Tracker/static/css/main.cfd3afd4.css.map",
+    "main.8204b84a.js.map": "/Task-Tracker/static/js/main.8204b84a.js.map"
   },
   "entrypoints": [
     "static/css/main.cfd3afd4.css",
